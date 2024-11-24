@@ -1,0 +1,102 @@
+name: news_app
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 6.0.1+34
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.3.1
+  cloud_firestore: ^5.0.2
+  firebase_analytics: ^11.1.0
+  firebase_auth: ^5.1.1
+  firebase_core: ^3.1.1
+  firebase_messaging: ^15.0.2
+  firebase_storage: ^12.1.0
+  cupertino_icons: ^1.0.5
+  easy_localization: ^3.0.7
+  flutter_web_browser: ^0.17.1
+  flutter_html: ^3.0.0-beta.2
+  google_fonts: ^6.2.1
+  google_sign_in: ^6.1.1
+  html_unescape: ^2.0.0
+  image_picker: ^1.1.2
+  introduction_screen: ^3.1.14
+  in_app_review: ^2.0.9
+  lottie: ^3.1.2
+  path_provider: ^2.0.15
+  shared_preferences: ^2.1.1
+  share_plus: ^10.0.2
+  fluttertoast: ^8.2.6
+  url_launcher: ^6.3.0
+  rounded_loading_button_plus: ^3.0.1
+  the_apple_sign_in: ^1.1.1
+  hive_flutter: ^1.1.0
+  loading_indicator: ^3.1.0
+  reading_time: ^2.0.0
+  pod_player: ^0.2.2
+  # google_mobile_ads: ^5.2.0
+  app_settings: ^5.1.1
+  flutter_riverpod: ^2.5.1
+  flutter_svg: ^2.0.9
+  line_icons: ^2.0.3
+  feather_icons: ^1.2.0
+  shimmer: ^3.0.0
+  material_dialogs: ^1.1.4
+  sign_in_with_apple: ^6.1.1
+  simple_animations: ^5.0.2
+  quiver: ^3.2.1
+  carousel_slider: ^5.0.0
+  soundcloud_explode_dart: ^1.0.2
+  just_audio: ^0.9.38
+  in_app_purchase: ^3.1.13
+  in_app_purchase_android: ^0.3.6+1
+  in_app_purchase_platform_interface: ^1.3.7
+  in_app_purchase_storekit: ^0.3.17
+  icons_plus: ^5.0.0
+  intl_phone_number_input: ^0.7.4
+  package_info_plus: ^8.0.0
+  otp_text_field: ^1.1.3
+  crypto: ^3.0.3
+  html: ^0.15.4
+  dots_indicator: ^2.1.2
+  lifecycle: ^0.9.0
+  flutter_native_splash: ^2.4.1
+  universal_platform: ^1.1.0
+  flutter_cache_manager: ^3.4.1
+  webview_flutter: ^4.10.0
+ 
+  
+ 
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.14.1
+  change_app_package_name: ^1.2.0
+  flutter_lints: ^5.0.0
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animation_files/
+    - assets/translations/
+    - assets/images/icon.png
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21

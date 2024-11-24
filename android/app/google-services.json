@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "235960579541",
+    "firebase_url": "https://namdhina-default-rtdb.firebaseio.com",
+    "project_id": "namdhina",
+    "storage_bucket": "namdhina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235960579541:android:578f4ca533ec8f9c28795c",
+        "android_client_info": {
+          "package_name": "com.ashwini5585.namdhinamadhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235960579541-2lgigtuesb29u629sdob6j3j68lmiana.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashwini5585.namdhinamadhi",
+            "certificate_hash": "ae4b0113fd08f20f1396077831e3463cd6e6a60d"
+          }
+        },
+        {
+          "client_id": "235960579541-sd0d33ms0ipr717un4664mvr3vsor07r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashwini5585.namdhinamadhi",
+            "certificate_hash": "61811c561ee8ab0b1ced7d8de55f86b5ce1a2f6d"
+          }
+        },
+        {
+          "client_id": "235960579541-v9ncghqeiml92r5tea0jmb80kcmqn0j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05payFL8xgcAsFM-uVkaJ5C82HEVjQ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235960579541-v9ncghqeiml92r5tea0jmb80kcmqn0j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235960579541-kh1o9qqhml2dq9vid2g276a4oqv322hs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.namdhina.news"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235960579541:android:578f4ca533ec8f9c28795c",
+        "android_client_info": {
+          "package_name": "com.dhina.dhina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235960579541-g7all945gmvr7bt39uqgnblah3a562p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhina.dhina",
+            "certificate_hash": "50d488c0e07198f444928beb5a8f9d82a0ec1add"
+          }
+        },
+        {
+          "client_id": "235960579541-h1jojupopk31d141g9dr4qb3of0m4fne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhina.dhina",
+            "certificate_hash": "751db22aeaacec9abc27cd37baae35df7481b157"
+          }
+        },
+        {
+          "client_id": "235960579541-v9ncghqeiml92r5tea0jmb80kcmqn0j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05payFL8xgcAsFM-uVkaJ5C82HEVjQ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235960579541-v9ncghqeiml92r5tea0jmb80kcmqn0j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235960579541-kh1o9qqhml2dq9vid2g276a4oqv322hs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.namdhina.news"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
