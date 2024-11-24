@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/drawable/notification_bg.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/drawable/notification_tile_bg.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/drawable/notification_icon_background.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/drawable/notification_bg_low.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/drawable/notification_bg_low.xml"
+    }
+]

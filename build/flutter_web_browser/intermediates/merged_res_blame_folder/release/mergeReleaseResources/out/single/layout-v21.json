@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout-v21/notification_action.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout-v21/notification_template_icon_group.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout-v21/notification_template_custom_big.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout-v21/notification_action_tombstone.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout-v21/notification_action_tombstone.xml"
+    }
+]

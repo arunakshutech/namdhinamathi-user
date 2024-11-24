@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="C:\Users\19662\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_browser-0.17.1\android"
+    name=":flutter_web_browser"
+    type="LIBRARY"
+    maven="dev.vbonnet.flutterwebbrowser:flutter_web_browser:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="C:\Users\19662\AndroidStudioProjects\namdhinamathi\news_app\build\flutter_web_browser"
+    bootClassPath="C:\Users\19662\AppData\Local\Android\Sdk\platforms\android-31\android.jar;C:\Users\19662\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/ime_base_split_test_activity.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/notification_template_part_chronometer.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/browser_actions_context_menu_row.xml",
+        "source": "mrblab.news_app.flutter_web_browser-browser-1.4.0-10:/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/custom_dialog.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/notification_action.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/notification_action.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/notification_template_icon_group.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/notification_template_custom_big.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/notification_action_tombstone.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/notification_template_part_time.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/ime_secondary_split_test_activity.xml",
+        "source": "mrblab.news_app.flutter_web_browser-core-1.13.1-8:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/layout/browser_actions_context_menu_page.xml",
+        "source": "mrblab.news_app.flutter_web_browser-browser-1.4.0-10:/layout/browser_actions_context_menu_page.xml"
+    }
+]

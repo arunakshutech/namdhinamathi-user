@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/animator/fragment_open_enter.xml",
+        "source": "mrblab.news_app.flutter_web_browser-fragment-1.7.1-15:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/animator/fragment_close_enter.xml",
+        "source": "mrblab.news_app.flutter_web_browser-fragment-1.7.1-15:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/animator/fragment_fade_enter.xml",
+        "source": "mrblab.news_app.flutter_web_browser-fragment-1.7.1-15:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/animator/fragment_fade_exit.xml",
+        "source": "mrblab.news_app.flutter_web_browser-fragment-1.7.1-15:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/animator/fragment_open_exit.xml",
+        "source": "mrblab.news_app.flutter_web_browser-fragment-1.7.1-15:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "mrblab.news_app.flutter_web_browser-release-24:/animator/fragment_close_exit.xml",
+        "source": "mrblab.news_app.flutter_web_browser-fragment-1.7.1-15:/animator/fragment_close_exit.xml"
+    }
+]

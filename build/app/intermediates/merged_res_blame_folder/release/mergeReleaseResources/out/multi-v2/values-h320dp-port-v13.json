@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dhina.dhina.app-mergeReleaseResources-57:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\19662\\.gradle\\caches\\8.9\\transforms\\94d5361f7f6d2a0e7656a757a429aeb8\\transformed\\material-1.13.0-alpha06\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

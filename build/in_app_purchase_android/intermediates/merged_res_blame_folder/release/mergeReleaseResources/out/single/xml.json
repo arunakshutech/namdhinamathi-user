@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "io.flutter.plugins.inapppurchase.in_app_purchase_android-release-26:/xml/com_android_billingclient_phenotype.xml",
+        "source": "io.flutter.plugins.inapppurchase.in_app_purchase_android-jetified-billing-6.2.0-22:/xml/com_android_billingclient_phenotype.xml"
+    }
+]
